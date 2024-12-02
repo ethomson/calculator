@@ -23,7 +23,8 @@
   "author": "Edward Thomson <ethomson@microsoft.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "tap-browser-color": "^0.1.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
